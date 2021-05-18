@@ -1,6 +1,6 @@
 # goodseeds
 
-A new Flutter project.
+A new Flutter project, a wanna-be clone of Benih Baik.
 
 ## Getting Started
 
